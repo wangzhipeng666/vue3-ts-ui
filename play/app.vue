@@ -1,4 +1,6 @@
 <template>
-    <div>启动测试</div>
+  <div>
+    <ea-button />
+  </div>
 </template>
-  
+<script lang="ts" setup></script>
