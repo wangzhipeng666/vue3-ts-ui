@@ -1,0 +1,21 @@
+{
+  "name": "vue3-ts-ui",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wangzhipeng666/vue3-ts-ui.git"
+  },
+  "bugs": {
+    "url": "https://github.com/wangzhipeng666/vue3-ts-ui/issues"
+  },
+  "homepage": "https://github.com/wangzhipeng666/vue3-ts-ui#readme"
+}
