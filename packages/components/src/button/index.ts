@@ -12,3 +12,4 @@ const withInstall = <T>(comp: T) => {
 export const Button = withInstall(_Button);
 export default Button;
 
+
