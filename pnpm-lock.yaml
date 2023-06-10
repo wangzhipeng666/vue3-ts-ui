@@ -30,14 +30,6 @@ importers:
         specifier: ^3.2.36
         version: registry.npmmirror.com/vue@3.2.36
 
-  packages/a: {}
-
-  packages/b:
-    dependencies:
-      '@easyest/a':
-        specifier: workspace:^
-        version: link:../a
-
   packages/components: {}
 
   packages/utils: {}
